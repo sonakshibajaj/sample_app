@@ -11,6 +11,7 @@ group :development do
 	gem 'rspec-rails', '2.0.0.beta.18' 
 	gem 'webrat', '0.7.1'
 	gem 'autotest'
+	gem 'annotate', '2.4.0'
 end
 
 group :test do
